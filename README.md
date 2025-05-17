@@ -42,9 +42,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ```
 
 
-**Procedure**
-
-/* write all the steps invloved */
 
 **PROGRAM**
 
@@ -66,4 +63,5 @@ RegisterNumber:212224040021
 ![Screenshot 2025-04-21 105350](https://github.com/user-attachments/assets/274b6839-71ee-4211-9a64-ad3a4ef031a7)
 
 **RESULTS**
+
 JK flipflop is implemented using verilog and their functionality using their functional tables is validated.
